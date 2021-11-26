@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1637969493 source:c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"eMovie.h"
+	"Controller.h"
+	"parser.h"
+	"input.h"
+
+1637537085 c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\linkedlist.h
+
+1637970402 c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\emovie.h
+
+1637969380 c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\controller.h
+	"eMovie.h"
+
+1637807504 c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\parser.h
+
+1637969991 c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\input.h
+
+1637970397 source:c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\emovie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"LinkedList.h"
+	"Controller.h"
+	"eMovie.h"
+	"input.h"
+
+1637967684 source:c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1637970762 source:c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"input.h"
+	"Controller.h"
+
+1637813734 source:c:\users\bianca\desktop\codeblocks proyectos\parcial2laboratoriobiancacasetta\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"eMovie.h"
+	"parser.h"
+	"Controller.h"
+
